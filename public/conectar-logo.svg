@@ -1,0 +1,10 @@
+<svg width="220" height="92" viewBox="0 0 220 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Conectar</title>
+    <desc id="desc">Conectar company logo</desc>
+    <g transform="translate(20 4)">
+        <circle cx="34" cy="30" r="28" fill="#075789"/>
+        <circle cx="36" cy="27" r="18" fill="#ffffff"/>
+        <circle cx="45" cy="18" r="12" fill="#075789"/>
+    </g>
+    <text x="20" y="84" fill="#707070" font-family="Arial, sans-serif" font-size="25" font-weight="700">Conectar</text>
+</svg>
